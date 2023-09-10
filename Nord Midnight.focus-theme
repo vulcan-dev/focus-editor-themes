@@ -1,15 +1,15 @@
 [colors]
-background:                     1d2129FF
+background:                     1D2129FF
 background_dark:                3B4252FF
 background_highlight:           434C5EFF
 background_light:               292D38FF
 background_bright:              292D38FF
-selection_active:               434c5eff
-selection_inactive:             434c5e52
-selection_highlight:            434c5eff
+selection_active:               434C5eFF
+selection_inactive:             434C5e52
+selection_highlight:            434C5EFF
 search_result_active:           B48EADFF
 search_result_inactive:         B48EAD26
-scrollbar:                      292D38FF
+scrollbar:                      292D38AF
 scrollbar_hover:                292D38FF
 scrollbar_background:           1d212990
 cursor:                         D8DEE99F
@@ -20,8 +20,8 @@ splitter_hover:                 3B4252FF
 letter_highlight:               81A1C1FF
 list_cursor_lite:               88C0D019
 list_cursor:                    88C0D04C
-shadow_dark:                    1d2129FF
-shadow_transparent:             1d212900
+shadow_dark:                    121419AF
+shadow_transparent:             1D21291F
 text_input_label:               ECEFF4FF
 
 ui_default:                     ECEFF4FF

@@ -1,7 +1,7 @@
 [colors]
-background:                     282828FF
-background_dark:                242424FF
-background_highlight:           18262FFF
+background:                     32302f
+background_dark:                32302f
+background_highlight:           5a524c
 background_light:               3c3836
 background_bright:              21333FFF
 selection_active:               1C4449FF
@@ -12,7 +12,7 @@ search_result_inactive:         FCEDFC26
 scrollbar:                      33CCCC19
 scrollbar_hover:                33CCCC4C
 scrollbar_background:           10191F4C
-cursor:                         D5C4A1FF
+cursor:                         45403d
 cursor_inactive:                196666FF
 paste_animation:                1C4449FF
 splitter:                       21333FFF
@@ -39,7 +39,7 @@ code_type:                      D65D0E
 code_function:                  fb4934FF
 code_punctuation:               928374FF
 code_operation:                 d79221
-code_string:                    98971aFF
+code_string:                    a9b665
 code_value:                     d3869bFF
 code_highlight:                 458588FF
 code_error:                     FF0000FF

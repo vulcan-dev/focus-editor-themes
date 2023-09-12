@@ -36,7 +36,7 @@ ui_error_bright:                DC322FFF
 ui_success:                     073642FF
 
 code_default:                   839496FF
-code_comment:                   93A1A1FF
+code_comment:                   586E75FF
 code_type:                      859900FF
 code_function:                  839496FF
 code_punctuation:               93A1A1FF

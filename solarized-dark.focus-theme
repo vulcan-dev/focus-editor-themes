@@ -37,12 +37,12 @@ ui_success:                     073642FF
 
 code_default:                   839496FF
 code_comment:                   93A1A1FF
-code_type:                      B58900FF
+code_type:                      859900FF
 code_function:                  839496FF
 code_punctuation:               93A1A1FF
 code_operation:                 93A1A1FF
 code_string:                    2AA198FF
-code_value:                     2AA198FF
+code_value:                     D33682FF
 code_highlight:                 D89B75FF
 code_error:                     FF0000FF
 code_keyword:                   859900FF
